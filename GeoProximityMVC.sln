@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoProximityMVC", "GeoProximityMVC\GeoProximityMVC.csproj", "{F1CD797E-E10C-43B8-BDEB-73F01B4D1A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoProximityMVCTest", "GeoProximityMVCTest\GeoProximityMVCTest.csproj", "{55E3C5D0-FB2A-49C8-98FA-D55DAE4CA923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CD797E-E10C-43B8-BDEB-73F01B4D1A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CD797E-E10C-43B8-BDEB-73F01B4D1A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CD797E-E10C-43B8-BDEB-73F01B4D1A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CD797E-E10C-43B8-BDEB-73F01B4D1A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E3C5D0-FB2A-49C8-98FA-D55DAE4CA923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E3C5D0-FB2A-49C8-98FA-D55DAE4CA923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E3C5D0-FB2A-49C8-98FA-D55DAE4CA923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E3C5D0-FB2A-49C8-98FA-D55DAE4CA923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ECB3349-53D6-4AAA-96F4-11700A70346E}
+	EndGlobalSection
+EndGlobal
